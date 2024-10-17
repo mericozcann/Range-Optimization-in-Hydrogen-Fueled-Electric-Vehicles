@@ -6,11 +6,14 @@
 These findings highlight that the vehicle achieves maximum energy efficiency at low speeds (e.g., 10 km/h) and low torque levels.
 ________________________________________
 ## 2. Dataset Summary
-Parameter	Torque (Nm)	Speed (km/h)	Range (km)	Energy Consumption (kWh)
-Count	      5	          5	            5	              5
-Mean	      150.0	      30.0	        18.824	        0.36
-Min	        150.0	      10.0	        3.25	          0.05
-Max	        150.0	      50.0	        54.22	          0.85
+
+| Parameter            | Torque (Nm) | Speed (km/h) | Range (km) | Energy Consumption (kWh) |
+|----------------------|-------------|--------------|------------|--------------------------|
+| **Count**            | 5           | 5            | 5          | 5                        |
+| **Mean**             | 150.0       | 30.0         | 18.824     | 0.36                     |
+| **Min**              | 150.0       | 10.0         | 3.25       | 0.05                     |
+| **Max**              | 150.0       | 50.0         | 54.22      | 0.85                     |
+
 ________________________________________
 ## 3. Key Findings
 •	Energy Efficiency: Maximum range is achieved at 10-20 km/h.
